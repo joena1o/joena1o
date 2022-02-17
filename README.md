@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hyefur Jonathan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter and React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ jonathanhyefur@gmail.com
 
 <!---
