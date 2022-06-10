@@ -3,8 +3,8 @@
 <h3 align="center">Full Stack Developer and Versatile Coder</h3>
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter, React and nodejs
-- Proficiency with php, javascript and java
+- 🌱 I’m currently learning Solidity
+- Proficiency with Flutter, React, php, nodejs
 - 📫 How to reach me @ jonathanhyefur@gmail.com
 - ⚡ Fun fact **I watch series movies.**
 
