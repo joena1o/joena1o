@@ -1,10 +1,10 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Hyefur Jonathan Balami
 <!-- ![](https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue) -->
-<h3 align="center">Full Stack Developer and Versatile Coder</h3>
+<h3 align="center">Mobile Software Engineer</h3>
 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Solidity
-- Proficiency with Flutter, React, php, nodejs
+- Proficiency with Flutter and nodejs
 - 📫 How to reach me @ jonathanhyefur@gmail.com
 - ⚡ Fun fact **I watch series movies.**
 
