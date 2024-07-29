@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Solidity
 - Proficiency with Flutter and nodejs
 - 📫 How to reach me @ jonathanhyefur@gmail.com
-- ⚡ Fun fact **I watch series movies.**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
