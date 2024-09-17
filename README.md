@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Hyefur Jonathan Balami
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Hyefur Jonathan
 <!-- ![](https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue) -->
 <h3 align="center">Mobile Software Engineer</h3>
 
