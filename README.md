@@ -1,3 +1,4 @@
+
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Hyefur Jonathan
 <!-- ![](https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue) -->
 <h3 align="center">Mobile Software Engineer</h3>
@@ -7,11 +8,12 @@
 - Proficiency with Flutter and nodejs
 - 📫 How to reach me @ jonathanhyefur@gmail.com
 
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/Jonathanhyef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuadop2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hyefur-jonathan-132612104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadop" height="30" width="40" /></a>
-<a href="https://www.instagram.com/balami_hyef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuado_p" height="30" width="40" /></a>
+<a href="https://twitter.com/white_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuadop2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseph-christopher-515652235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadop" height="30" width="40" /></a>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -19,7 +21,7 @@
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joena1o&show_icons=true&locale=en&layout=compact" alt="joena1o" /></p>
 <!---
-joena1o/joena1o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+white/X10TION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 --->
